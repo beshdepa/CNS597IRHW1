@@ -1,0 +1,2 @@
+just dump these wherever and run them (advised to keep server seperate from scanner, as its generated and dynamic index.html will constantly trigger rescans)
+central management server logs accessable at http://127.0.0.1:8080/
